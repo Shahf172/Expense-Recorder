@@ -1,0 +1,15 @@
+D:\KharchaRecorder\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+D:\KharchaRecorder\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+D:\KharchaRecorder\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+D:\KharchaRecorder\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\KharchaRecorder\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Models.dll
+D:\KharchaRecorder\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\KharchaRecorder\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Models.pdb
+D:\KharchaRecorder\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\KharchaRecorder\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KharchaRecorder\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\KharchaRecorder\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+D:\KharchaRecorder\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\KharchaRecorder\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+D:\KharchaRecorder\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+D:\KharchaRecorder\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CopyComplete

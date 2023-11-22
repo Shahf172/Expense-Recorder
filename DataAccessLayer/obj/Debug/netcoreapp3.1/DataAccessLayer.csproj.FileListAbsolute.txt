@@ -1,0 +1,16 @@
+D:\KharchaRecorder\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\KharchaRecorder\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+D:\KharchaRecorder\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+D:\KharchaRecorder\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\KharchaRecorder\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\KharchaRecorder\DataAccessLayer\bin\Debug\netcoreapp3.1\Models.dll
+D:\KharchaRecorder\DataAccessLayer\bin\Debug\netcoreapp3.1\Models.pdb
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
+D:\KharchaRecorder\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
